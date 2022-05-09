@@ -1,6 +1,6 @@
-# 1ano-Programacao1_2
-Projeto de 1ºano, do curso de Tecnologias de Informação -> cadeira de Programação 1 e 2 <br>
+# Projeto de 1ºano.
+Projeto de 1ºano, do curso de Tecnologias de Informação -> cadeira de Programação 1 e 2 
 
-## LER README.pdf PARA INFORMAÇÕES SOBRE O PROJETO 
+## Ler README.pdf para mais informações sobre o projeto
 
-Nota: este versão contém apenas 250 linhas no ficheiro csv, por limite de tamanho de ficheiros
+Nota: esta versão contém apenas 250 linhas no ficheiro csv, por limite de tamanho de ficheiros no GitHub
