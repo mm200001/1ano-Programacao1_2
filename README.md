@@ -4,5 +4,5 @@ Projeto de 1ºano, do curso de Tecnologias de Informação -> Cadeira de Program
 ## Ler README.pdf para mais informações sobre o projeto
 Esta versão contém apenas 250 linhas no ficheiro csv, por limite de tamanho de ficheiros no GitHub <br>
 
-Nota final: 18 valores.
+Nota final: 17 valores.
 
